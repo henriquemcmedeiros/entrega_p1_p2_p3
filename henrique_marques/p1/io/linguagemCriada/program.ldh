@@ -1,0 +1,5 @@
+PROGRAMA "Teste"
+INICIO
+A = 3 + 4 - 2
+Y = (A) * 3
+FIM
